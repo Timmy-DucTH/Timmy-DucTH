@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Timmy
 ==============================================================================================================================
 
-Hi! My real name is Tran Hoang Duc, but you can call me Timmy.
+My real name is Tran Hoang Duc, but you can call me Timmy.
 
 I am a Computer Science student, currently focusing on AI and Back-end development. This is where I share and update the topics I’ve been working on and exploring in these fields.
 
