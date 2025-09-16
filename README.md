@@ -1,4 +1,4 @@
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! My name is Timmy
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Timmy!
 ==============================================================================================================================
 
 My real name is Tran Hoang Duc, but you can call me Timmy.
