@@ -3,7 +3,7 @@
 
 My real name is Tran Hoang Duc, but you can call me Timmy.
 
-I am a Computer Science student, currently focusing on AI and Back-end development. This is where I share and update the topics I’ve been working on and exploring in these fields.
+I am a Computer Science student, currently focusing on Machine Learning in Quantitative Finance and Deep Learning. This is where I share and update the topics I’ve been working on and exploring in these fields.
 
 * ✉️  You can contact me at [ductran6906@gmail.com](mailto:ductran6906@gmail.com)
 
