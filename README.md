@@ -8,7 +8,6 @@
   <a href="mailto:ductran6906@gmail.com"><img src="https://img.shields.io/badge/Email-ductran6906%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/timmyducth"><img src="https://img.shields.io/badge/LinkedIn-timmyducth-333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-<hr>
 
 ### About
  
