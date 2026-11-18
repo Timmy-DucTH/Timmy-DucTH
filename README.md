@@ -8,8 +8,7 @@
   <a href="mailto:ductran6906@gmail.com"><img src="https://img.shields.io/badge/Email-ductran6906%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/timmyducth"><img src="https://img.shields.io/badge/LinkedIn-timmyducth-333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-
+<hr>
 
 ### About
  
@@ -19,25 +18,20 @@ This profile is where I keep track of what I'm building and learning along the w
  
 ### Research Interests
  
-**Machine Learning for Quantitative Finance**
+**Machine Learning for Quantitative Finance**<br>
 I'm interested in the path from information to decisions:
 - *Signals from text*: using language models to extract market signals from news, financial reports, and investor discussion on social media.
 - *Signals to decisions*: portfolio optimization and reinforcement learning for turning noisy predictions into allocation and trading decisions.
 My starting point is forecasting on financial time series, where I learned to treat leakage-free features, chronological validation, and out-of-sample robustness as non-negotiable.
  
-**Multimodal NLP for Social Media**
+**Multimodal NLP for Social Media**<br>
 Vision-language models for online content moderation in low-resource languages, with a focus on Vietnamese. I'm interested in how knowledge from high-resource English data can be transferred when only a handful of local labels exist, and where that transfer breaks down across cultures.
  
-### Selected Work
- 
-- **Hedge Fund Time-Series Forecasting** (Kaggle competition) — Top 3% of 983 teams.
-  Horizon-specific LightGBM + global CatBoost ensemble, tuned with Optuna, under strict chronological validation to avoid look-ahead bias.
-- **Skeleton-Based Action Recognition** — ST-GCN with edge importance weighting on MediaPipe skeletons (HMDB51), outperforming an RGB-based baseline by 10%.
 ### Currently
  
 - Building foundations for quant: probability, time-series analysis, convex optimization, and reinforcement learning
 - Working on an undergraduate research project in multimodal NLP for Vietnamese social media
-- Preparing for graduate study in AI / quantitative finance
+- Preparing for graduate study in NLP-LLM
 ### Toolkit
  
 **Languages** &nbsp;
